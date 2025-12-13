@@ -1,0 +1,5 @@
+Jan 20 08:15:10 server sshd[1234]: Failed password for invalid user test from 203.0.113.88 port 50234 ssh2
+Jan 20 08:20:45 server sshd[1235]: Failed password for invalid user admin from 198.51.100.77 port 50250 ssh2
+Jan 20 08:25:12 server sshd[1236]: Failed password for invalid user guest from 192.0.2.50 port 50260 ssh2
+Jan 20 08:30:55 server sshd[1237]: Failed password for invalid user demo from 203.0.113.88 port 50234 ssh2
+Jan 20 08:35:22 server sshd[1238]: Failed password for invalid user admin from 198.51.100.77 port 50250 ssh2

@@ -1,0 +1,6 @@
+Jan 10 10:14:22 server sshd[1234]: Failed password for root from 192.168.1.45 port 22
+Jan 10 10:14:25 server sshd[1234]: Failed password for admin from 192.168.1.45 port 22
+Jan 10 10:14:28 server sshd[1234]: Failed password for user from 192.168.1.45 port 22
+Jan 10 10:14:30 server sshd[1234]: Failed password for test from 192.168.1.45 port 22
+Jan 10 10:14:33 server sshd[1234]: Failed password for guest from 192.168.1.45 port 22
+Jan 10 10:16:10 server sudo: user : TTY=pts/0 ; COMMAND=/bin/bash

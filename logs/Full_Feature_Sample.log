@@ -1,0 +1,16 @@
+# High-volume brute-force attempts
+Jan 10 08:12:01 server sshd[1023]: Failed password for invalid user admin from 10.0.0.5 port 34567 ssh2
+Jan 10 08:12:02 server sshd[1024]: Failed password for invalid user admin from 10.0.0.5 port 34568 ssh2
+Jan 10 08:12:03 server sshd[1025]: Failed password for invalid user admin from 10.0.0.5 port 34569 ssh2
+
+# Low-and-slow brute-force attempts
+Jan 10 09:15:10 server sshd[2001]: Failed password for user1 from 203.0.113.88 port 40001 ssh2
+Jan 10 09:20:15 server sshd[2002]: Failed password for user1 from 198.51.100.77 port 40002 ssh2
+
+# Suspicious IP activity
+Jan 10 10:00:12 server sshd[3050]: Failed password for root from 203.0.113.99 port 40222 ssh2
+Jan 10 10:05:45 server sshd[3055]: Failed password for root from 203.0.113.99 port 40223 ssh2
+
+# Privilege escalation attempts
+Jan 10 10:16:10 server sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/bash
+Jan 10 10:17:30 server sudo: attacker : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/nano /etc/passwd

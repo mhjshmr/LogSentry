@@ -1,0 +1,2 @@
+Jan 17 11:15:30 server sudo: hacker : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Jan 17 11:17:10 server sudo: hacker : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/nano /etc/passwd

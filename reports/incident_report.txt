@@ -1,0 +1,17 @@
+=== LogSentry Incident Report ===
+
+Brute Force Attacks Detected:
+- IP: 192.168.1.45
+
+Suspicious IP Activity:
+- IP: 192.168.1.45
+
+Privilege Escalation Attempts:
+- Jan 10 10:16:10 server sudo: user : TTY=pts/0 ; COMMAND=/bin/bash
+
+Risk Score: 120 (HIGH)
+
+Recommendations:
+- Block offending IPs
+- Review sudo permissions
+- Enable SSH key-based authentication

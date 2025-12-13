@@ -1,0 +1,5 @@
+Jan 12 22:41:02 server sshd[2101]: Failed password for root from 203.0.113.77 port 49821 ssh2
+Jan 12 22:41:07 server sshd[2102]: Failed password for root from 203.0.113.77 port 49822 ssh2
+Jan 12 22:41:12 server sshd[2103]: Failed password for root from 203.0.113.77 port 49823 ssh2
+
+Jan 12 22:42:30 server sudo: attacker : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/nano /etc/passwd
