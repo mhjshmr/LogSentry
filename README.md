@@ -133,4 +133,5 @@ Analysis Flow
 - Linux Authentication Logs (`auth.log`) documentation
 - SOC & Blue Team best practices
 <br><br>
+
 **Stay alert. Detect early. Respond fast. 🔐**
