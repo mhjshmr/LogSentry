@@ -7,7 +7,7 @@ It parses logs, detects brute-force attacks, suspicious IPs, and privilege escal
 <br>
 
 <div align="center">
-  <img src="https://github.com/mhjshmr/LogSentry/blob/main/logs/LogSentry%20Generated%20Report.png" alt="Generated Log Analysis Report" width="500">
+  <img src="https://github.com/mhjshmr/LogSentry/blob/main/logs/LogSentry%20Generated%20Report.png" alt="Generated Log Analysis Report" width="570">
 </div>
 
 
